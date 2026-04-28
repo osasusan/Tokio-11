@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		486A9BF02FA031A0001E2A44 /* README.me in Resources */ = {isa = PBXBuildFile; fileRef = 486A9BEF2FA031A0001E2A44 /* README.me */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		48647DB72F9BDFA1007A82EE /* Tokio 11.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Tokio 11.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		486A9BEF2FA031A0001E2A44 /* README.me */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = README.me; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -45,6 +50,7 @@
 		48647DAE2F9BDFA1007A82EE = {
 			isa = PBXGroup;
 			children = (
+				486A9BEF2FA031A0001E2A44 /* README.me */,
 				48647DB92F9BDFA1007A82EE /* Tokio 11 */,
 				48647DB82F9BDFA1007A82EE /* Products */,
 			);
@@ -123,6 +129,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				486A9BF02FA031A0001E2A44 /* README.me in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
